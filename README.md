@@ -1,6 +1,6 @@
 # Logger
 
-### Configuring Logging
+### Configuration Logging
 On Startup.cs you must add `` services.AddLogger<Context>(options => {}); ``
 ```
   services.AddLogger<Context>(options =>
